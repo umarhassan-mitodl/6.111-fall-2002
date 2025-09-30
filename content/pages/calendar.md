@@ -4,6 +4,8 @@ description: The calendar provides the schedule of lectures, assignments, and ha
   for the course. After the second quiz, the lectures and recitations are discontinued.
   The remainder of the sessions involve labs and project presentations by students
   in the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -4,6 +4,8 @@ description: Problem Set 1 Solutions
 file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/65532b32224fea0f8e2fcb9d3b7be51f_ps1f02soln.pdf
 file_size: 155786
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
