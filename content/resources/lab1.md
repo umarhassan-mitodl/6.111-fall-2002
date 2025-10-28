@@ -4,8 +4,6 @@ description: 'Labs: Logic Analyzer, digital oscilloscopes, and PALS'
 file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/40265c33f3edda673bc2439a01fb383f_lab1.pdf
 file_size: 169033
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

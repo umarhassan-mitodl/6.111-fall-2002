@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the problem sets assigned for the course. These
   assignments are based on the materials covered in the lectures, readings, and labs.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
